@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    font: 14px/18px 'Times New Roman', sans-serif;
+    color: #000;
+}
+
+.list{
+    list-style: none;
+    padding: 20px;
+    margin: 0 auto;
+    flex-direction: column;
+    width: 851px;
+    display: flex;
+    align-items: center;
+    border: 10px dashed;
+    border-color: #563725;
+}
